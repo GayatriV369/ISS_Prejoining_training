@@ -103,9 +103,7 @@ public class PolymorphismDemo {
         student2.displayInfo();
     }
 
-    /**
-     * Demonstrates polymorphism with collections
-     */
+   
 
 
 
