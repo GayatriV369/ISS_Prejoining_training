@@ -16,8 +16,7 @@ public class Main {
         decisionDemo.demonstrateSwitchStatement();
         decisionDemo.demonstrateTernaryOperator();
 
-        System.out.println("\n" + "=".repeat(50));
-
+      
         // Loop Control Demo
         LoopControlDemo loopDemo = new LoopControlDemo();
         loopDemo.demonstrateForLoop();
