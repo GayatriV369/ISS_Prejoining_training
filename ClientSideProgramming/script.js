@@ -178,11 +178,7 @@ function showSuccessMessage(message) {
     registerForm.style.display = 'none';
     successMessage.classList.remove('hidden');
     
-    // Auto-hide success message and return to login after 3 seconds
-    // setTimeout(() => {
-    //     successMessage.classList.add('hidden');
-    //     switchToForm('login');
-    // }, 3000);
+   
 }
 
 // Real-time validation
