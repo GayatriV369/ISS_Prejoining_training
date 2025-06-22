@@ -1,0 +1,12 @@
+<catalog>
+    <book isbn="978-0134685991">
+        <title>Effective Java</title>
+        <author>Joshua Bloch</author>
+        <year>2018</year>
+    </book>
+    <book isbn="978-0596009205">
+        <title>Head First Java</title>
+        <author>Kathy Sierra</author>
+        <year>2005</year>
+    </book>
+</catalog>
