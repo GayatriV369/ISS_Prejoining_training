@@ -6,10 +6,10 @@ This repository contains practice assignments and mini-projects completed as par
 
 | Folder Name                        | Description                                              |
 |-------------------------------------|----------------------------------------------------------|
-| ClientSideProgramming              | HTML, CSS, and JavaScript practice assignments           |
+| ClientSideProgramming              | HTML, CSS, and JavaScript          |
 | HelloWorld_Using_JSP_Servlet       | Simple Hello World project using JSP and Servlet         |
-| Java_ISS                           | Core Java assignments and practice problems              |
+| Java_ISS                           | Java code demo             |
 | Login_Register_Using_JSP_Servlet   | Login and registration project using JSP and Servlet     |
 | Python_ISS                         | Python programming assignments and scripts               |
-| SQL                                | SQL queries, scripts, and database exercises             |
+| SQL                                | SQL queries          |
 
