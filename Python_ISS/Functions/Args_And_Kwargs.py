@@ -56,7 +56,7 @@ def display_settings(**settings):
 print("\nDisplay settings:")
 display_settings(debug=True, port=8080, ssl_enabled=False)
 
-# 5. COMBINING *ARGS AND **KWARGS
+# 3. COMBINING *ARGS AND **KWARGS
 print("\n5. COMBINING *ARGS AND **KWARGS")
 
 
